@@ -441,17 +441,17 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
-String _getTitle() {
-  switch (_getTitle()) {
-    case 0:
-      return 'الرئيسية';
-    case 1:
-      return 'التصنيفات';
-    case 2:
-      return 'السلة';
-    case 3:
-      return 'حسابي';
-    default:
-      return '';
-  }
-}
+// String _getTitle() {
+//   switch (_getTitle()) {
+//     case 0:
+//       return 'الرئيسية';
+//     case 1:
+//       return 'التصنيفات';
+//     case 2:
+//       return 'السلة';
+//     case 3:
+//       return 'حسابي';
+//     default:
+//       return '';
+//   }
+// }
