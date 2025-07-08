@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
 
   int _currentIndex = 0;
 
-  final List<Widget> _pages = [maincategoriespage(), CartPage(), ProfilePage()];
+  final List<Widget> pages = [maincategoriespage(), CartPage(), ProfilePage()];
   List<String> products = [
     "images/6248846141712409430.jpg",
     "images/images2.jpeg",
